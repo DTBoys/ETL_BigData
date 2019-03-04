@@ -12,3 +12,6 @@ This is a place that we can get data by ETL from database where under cloud
 《OGG环境搭建手册.pdf》;
 《Oracle Golden Gate图文并茂快速掌握.pdf》;
 《OGG部署配置及运维方案.docx》
+#### 1.5. 上云方案
+全量+增量=全量，即昨天的全量+今天的增量=今天的全量。
+增量数据获取方法见下：<https://blog.csdn.net/mochou111/article/details/80995156>
